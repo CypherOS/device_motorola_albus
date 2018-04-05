@@ -1,3 +1,20 @@
 [
-
+  {
+    "repository":  "kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch":      "parfait-release",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "Lineage-15.1",
+    "remote":      "github"
+  }
 ]
